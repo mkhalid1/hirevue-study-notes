@@ -56,7 +56,7 @@ Your thinking and answer times are set by the employer and shown before you star
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from HireVue or any employer. Each has one best option. Choose before opening the explanations.
+These 3 items are original, written for these notes. They are not taken from HireVue or any employer. Each has one best option. Choose before opening the explanations.
 
 **Item 1.** "A customer tells you their order arrived damaged and they need it tomorrow. What would you do?" Which outline is best?
 
@@ -64,98 +64,26 @@ These 12 items are original, written for these notes. They are not taken from Hi
 - B. "I'd tell them to call head office, since they handle complaints."
 - C. "I'd apologise and check the order details and photos of the damage. Then I'd offer the fastest fix we have, such as an express replacement or collection from a nearby branch, and confirm the timing with them. I'd note the damage for the supplier and check the next day that it arrived."
 
-**Item 2.** The question begins "What would you do if...". Which approach fits best?
-
-- A. Explain the steps you would take and why, adding one sentence about a similar past experience if you have one.
-- B. Tell a long story about a past job that is only loosely related.
-- C. Say "It depends on the situation" and leave it there.
-
-**Item 3.** "A colleague presents your idea in a team meeting as their own. How would you handle it?" Which outline is best?
-
-- A. Interrupt the meeting to point out that the idea was yours.
-- B. Speak to the colleague privately afterwards, calmly explain how it came across, and agree how you will credit shared work in future. If it keeps happening, raise it with your manager with examples.
-- C. Say nothing, ever, to avoid conflict.
-
-**Item 4.** "Your manager needs a report from you by 3 p.m. At 2 p.m. a senior colleague asks for an hour of help with something else." Which outline is best?
+**Item 2.** "Your manager needs a report from you by 3 p.m. At 2 p.m. a senior colleague asks for an hour of help with something else." Which outline is best?
 
 - A. Tell the colleague about your 3 p.m. deadline, offer to help straight after, and if they say it cannot wait, check with your manager which should come first.
 - B. Drop the report and help the colleague, because they are senior.
 - C. Ignore the request until the report is done.
 
-**Item 5.** A simulation says: "I am a customer whose delivery is three days late. Speak to me now." Which opening is best?
+**Item 3.** A simulation says: "I am a customer whose delivery is three days late. Speak to me now." Which opening is best?
 
 - A. "I would tell the customer that I understand and that I'll look into it."
 - B. "I'm sorry your delivery is late, that's frustrating. Can I take your order number so I can see exactly where it is?"
 - C. "Deliveries are handled by a courier, so it's not really something we control."
 
-**Item 6.** "You notice a colleague regularly giving large discounts to friends without approval. What would you do?"
-
-- A. Ignore it, because it is not your business.
-- B. Tell the colleague's friends at the till that they cannot have the discount.
-- C. Make sure you have seen it clearly, then raise it with your manager or through the proper channel, sticking to what you saw.
-
-**Item 7.** "You are given a task, but the instructions are unclear and your manager is busy." What is the best first step?
-
-- A. Ask one or two specific questions in a short message, and confirm your understanding in writing before you start.
-- B. Guess and hope it is what they meant.
-- C. Wait until the manager has time for a meeting next week.
-
-**Item 8.** "You are helping a customer when you see a large spill in a busy aisle." What should come first?
-
-- A. Finish with the customer, then deal with the spill.
-- B. Excuse yourself briefly, make the area safe with a sign or by staying near it, call for a clean-up, then return to the customer.
-- C. Mention it to a colleague at the end of your shift.
-
-**Item 9.** Which sentence would most improve a situational answer?
-
-- A. "I'd sort it out."
-- B. "I'd call the customer first, because they had already waited two days and needed to know someone was on it."
-- C. "That's what anyone would do."
-
-**Item 10.** The scenario does not say whether you are allowed to give refunds. What is the best approach?
-
-- A. Refuse to answer until you know.
-- B. Assume you can do anything you like.
-- C. State one reasonable assumption ("If I'm able to approve refunds...") and give a backup if you are not ("...otherwise I'd get a manager straight away").
-
-**Item 11.** "Two teammates are arguing in a shared team chat about who should do a task." You are their peer. What is best?
-
-- A. Join the argument and take a side.
-- B. Suggest they move it to a quick call, offer to help split the task fairly, and involve the team lead if they cannot agree.
-- C. Leave the chat.
-
-**Item 12.** "After sending a client a report, you notice one figure is wrong." What is best?
-
-- A. Tell your manager and the client quickly, send the corrected figure, and check whether the error affected anything else.
-- B. Hope the client does not notice.
-- C. Quietly change your own copy so the records look right.
-
 <details>
-<summary>Answers and explanations, items 1 to 12</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
 **Item 1: C.** It apologises, gathers facts, offers a fast fix, confirms timing and follows up. *Why not A:* naming policy shows no judgement. *Why not B:* passing the customer away when you could help leaves them stuck.
 
-**Item 2: A.** The question asks what you would do, so lead with your steps and reasons. A brief past example can add weight. *Why not B:* a loosely related story does not answer the hypothetical. *Why not C:* "it depends" with nothing after it avoids the question.
+**Item 2: A.** You protect the deadline, offer real help, and let the manager decide if the two clash. *Why not B:* seniority alone does not cancel a commitment to your manager. *Why not C:* ignoring a colleague is unhelpful and could hide a real emergency.
 
-**Item 3: B.** Private first, calm, specific, with a plan for the future and escalation only if it repeats. *Why not A:* a public challenge in a meeting usually makes things worse. *Why not C:* saying nothing at all lets the problem continue.
-
-**Item 4: A.** You protect the deadline, offer real help, and let the manager decide if the two clash. *Why not B:* seniority alone does not cancel a commitment to your manager. *Why not C:* ignoring a colleague is unhelpful and could hide a real emergency.
-
-**Item 5: B.** It speaks to the customer directly, acknowledges how they feel and moves to fact-finding. *Why not A:* it narrates instead of acting out the response, which the simulation asked for. *Why not C:* it shifts blame and helps nobody.
-
-**Item 6: C.** Check your facts, then use the right channel. *Why not A:* unapproved discounts cost the business and ignoring them is not neutral. *Why not B:* confronting customers in public is not your call and causes a scene.
-
-**Item 7: A.** A short, specific question respects the manager's time and avoids wasted work. *Why not B:* guessing can mean redoing the task. *Why not C:* waiting a week stalls the work.
-
-**Item 8: B.** Safety comes first, and it takes only a moment. You still return to the customer. *Why not A:* someone could slip while you finish. *Why not C:* hours later is far too late.
-
-**Item 9: B.** It gives an action and the reason for it, which shows judgement. *Why not A:* it is too vague to assess. *Why not C:* it adds nothing.
-
-**Item 10: C.** One stated assumption with a backup keeps the answer moving and shows you know the limits of your role. *Why not A:* you cannot ask the screen. *Why not B:* assuming unlimited authority looks careless.
-
-**Item 11: B.** It calms things, moves the disagreement out of a shared space, offers practical help and has a fallback. *Why not A:* taking sides inflames it. *Why not C:* leaving solves nothing for the team.
-
-**Item 12: A.** Owning the error quickly, correcting it and checking knock-on effects is what employers want to see. *Why not B or C:* both hide a mistake from someone who relies on the figure.
+**Item 3: B.** It speaks to the customer directly, acknowledges how they feel and moves to fact-finding. *Why not A:* it narrates instead of acting out the response, which the simulation asked for. *Why not C:* it shifts blame and helps nobody.
 
 </details>
 
@@ -187,13 +115,15 @@ Notice that every line is spoken *to* the customer. That is the main difference 
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | A | B | A | B | C | A | B | B | C | B | A |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | C | A | B |
 
-- **11 to 12:** your judgement instincts are good. Practise saying answers out loud with the four steps.
-- **8 to 10:** check whether your misses were about order (urgent first) or channel (private first, escalate later).
-- **7 or fewer:** reread "Traps that cost points", then redo the items in two days.
+- **3:** your judgement instincts are good. Practise saying answers out loud with the four steps.
+- **2:** check whether your misses were about order (urgent first) or channel (private first, escalate later).
+- **1 or fewer:** reread "Traps that cost points", then redo the items in two days.
+
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 

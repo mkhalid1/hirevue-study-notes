@@ -65,7 +65,7 @@ Your answer time is set by the employer. As our guidance, a "why us" or strength
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from HireVue or any employer. Each has one best option.
+These 3 items are original, written for these notes. They are not taken from HireVue or any employer. Each has one best option.
 
 **Item 1.** "Why do you want to work for us?" for a role at a regional bus company. Which answer is best?
 
@@ -85,86 +85,14 @@ These 12 items are original, written for these notes. They are not taken from Hi
 - B. "I'm a perfectionist, so I sometimes care too much about my work."
 - C. "I don't really have any weaknesses that would affect my work."
 
-**Item 4.** "Tell us about yourself." Which outline fits best?
-
-- A. Where you grew up, your school years, your hobbies, your family, then your degree.
-- B. What you do now, one or two experiences that led you to apply, and why this role is the next step, in about a minute.
-- C. A list of every job you have had in date order.
-
-**Item 5.** You are researching the employer. Which piece of research is most useful for a "why us" answer?
-
-- A. The year the company was founded.
-- B. The number of countries it operates in.
-- C. A recent change to a product or service that the role works on.
-
-**Item 6.** "Why this role?" for a junior data analyst job. Which reason is strongest?
-
-- A. "I enjoyed my statistics module, and in my placement I cleaned a messy survey dataset and turned it into a weekly chart the manager used. The advert says the role builds weekly dashboards for the operations team, which is the part of that work I liked most."
-- B. "Data is the future, so it's a good career to get into."
-- C. "I'm not sure yet what I want to do, so this seems like a good start."
-
-**Item 7.** Which sentence best connects a strength to the job?
-
-- A. "So that's why I'm good at it."
-- B. "In this role you'd be handling complaints at the first point of contact, so staying calm with upset people is something I'd use every day."
-- C. "Anyway, I think strengths are important in any job."
-
-**Item 8.** "Where would you like to be in a few years?" Which answer is best?
-
-- A. "In your job, probably."
-- B. "I'd like to have become really good at this role, maybe trained newer team members, and grown towards a team lead position if that's a path here."
-- C. "I'm planning to start my own business, so I'd likely be gone by then."
-
-**Item 9.** Which version of "why us" avoids just repeating the website?
-
-- A. "Your website says you're 'committed to excellence and innovation', which I really like."
-- B. "Your values page lists 'customer first', 'integrity' and 'teamwork'."
-- C. "When I contacted your support team about a billing problem, they rang me back the same day and fixed it on the call. That's the kind of service I'd want to be part of giving."
-
-**Item 10.** You genuinely want the job partly because it is close to home. What is the best way to handle that?
-
-- A. Lead with the location and say little else.
-- B. Lead with your interest in the work and evidence for it. Mention the location briefly only if it is relevant, for example to say you can be reliable for early shifts.
-- C. Pretend location has nothing to do with it and invent a stronger reason.
-
-**Item 11.** "What makes you a good fit for this team?" The advert stresses accuracy and working to deadlines. Which answer fits best?
-
-- A. "I'm a fun person and I get along with everyone."
-- B. "I'm very passionate about this industry."
-- C. "Accuracy and deadlines are what my last job was built on. I processed supplier invoices with a 48-hour turnaround and kept my error rate below what the team tracked as acceptable, and I double-check figures before anything leaves my desk."
-
-**Item 12.** You have 3 minutes for a "why us" answer and have said everything useful in 80 seconds. What should you do?
-
-- A. Add one more relevant example if you have one, then finish cleanly.
-- B. Repeat your main points in different words until the time runs out.
-- C. Start talking about unrelated hobbies to fill the time.
-
 <details>
-<summary>Answers and explanations, items 1 to 12</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
 **Item 1: B.** It names something specific about the employer (the app), links it to real experience, and says what you would bring. *Why not A:* it could be said about any well-known company. *Why not C:* pay and location are real reasons but show no interest in the work.
 
 **Item 2: C.** One clear strength, a short example that proves it, and a link to the role. *Why not A:* a list of adjectives proves nothing. *Why not B:* a claim with no evidence.
 
 **Item 3: A.** A real weakness that does not rule you out, a concrete plan and evidence of progress. *Why not B:* a disguised strength reads as avoiding the question. *Why not C:* everyone has something to work on, and saying otherwise sounds unaware.
-
-**Item 4: B.** Present, past, future, kept short and professional. *Why not A:* personal history uses the time on things the employer did not ask about. *Why not C:* a full job list is your CV, not an answer.
-
-**Item 5: C.** A recent change to something the role works on gives you a specific, current reason. *Why not A or B:* true facts, but they do not connect to the job or to you.
-
-**Item 6: A.** It links a real interest and real experience to a specific part of the job from the advert. *Why not B:* it is general and could be said of thousands of jobs. *Why not C:* honest, but it gives the employer no reason to pick you.
-
-**Item 7: B.** It ties the strength to what the role actually involves. *Why not A or C:* neither links the strength to this job.
-
-**Item 8: B.** It shows ambition that fits the employer's interests, starting with doing the job well. *Why not A:* it sounds flippant. *Why not C:* it tells the employer you plan to leave soon.
-
-**Item 9: C.** A real experience of the employer is specific and personal. *Why not A and B:* both repeat the website without saying why it matters to you.
-
-**Item 10: B.** Honest, but the work leads and the location only appears where it is relevant. *Why not A:* location alone shows no interest in the role. *Why not C:* invented reasons are dishonest and tend to sound thin.
-
-**Item 11: C.** It answers the two things the advert stresses, with evidence. *Why not A:* likeable but not linked to the team's needs. *Why not B:* passion without evidence or relevance.
-
-**Item 12: A.** One more relevant example adds value. Then stop. *Why not B:* repetition makes a strong answer weaker. *Why not C:* unrelated filler distracts from what you said well.
 
 </details>
 
@@ -192,13 +120,15 @@ Write your three "why us" sentences for the job you are applying for. Then recor
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | C | A | B | C | A | B | B | C | B | C | A |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | B | C | A |
 
-- **11 to 12:** you know what a strong answer looks like. Now do the research for your actual employer.
-- **8 to 10:** most misses here are about being general. Add one specific fact and one example to every answer.
-- **7 or fewer:** reread the three-part method and redo the items after writing your own "why us" sentences.
+- **3:** you know what a strong answer looks like. Now do the research for your actual employer.
+- **2:** most misses here are about being general. Add one specific fact and one example to every answer.
+- **1 or fewer:** reread the three-part method and redo the items after writing your own "why us" sentences.
+
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 

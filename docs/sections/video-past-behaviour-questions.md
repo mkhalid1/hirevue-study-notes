@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Situational questions](video-situational-questions.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [6-minute diagnostic](../diagnostic.md) · Next: [Situational questions](video-situational-questions.md)<!-- /nav:top -->
 
 # Past-behaviour questions
 
@@ -69,7 +69,7 @@ Read the answer time in your setup screen and plan to finish with 10 to 20 secon
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from HireVue or any employer. Each one has one best option. Commit to an answer before you open the explanations.
+These 3 items are original, written for these notes. They are not taken from HireVue or any employer. Each one has one best option. Commit to an answer before you open the explanations.
 
 **Item 1.** The question is: "Tell us about a time you had to meet a tight deadline." Which answer outline fits best?
 
@@ -84,92 +84,20 @@ These 12 items are original, written for these notes. They are not taken from Hi
 - C. Action
 - D. Result
 
-**Item 3.** The question is: "Describe a time you had to solve a problem with limited information." Which opening sentence is best?
-
-- A. "So, to give some background, I studied geography at university, and then after that I took a year out, and during that year I worked in a few places, including a warehouse..."
-- B. "In my warehouse job last year, a delivery arrived with no paperwork and the supplier's office was closed for the weekend."
-- C. "Problems with limited information are something everyone faces, and I think the key is staying calm."
-
-**Item 4.** The question is: "Tell us about a time you disagreed with a manager." Which outline handles it best?
-
-- A. "My last manager was honestly not very good at planning, so I often had to fix things. Once I told the whole team the rota made no sense."
-- B. "I can't think of a time I've disagreed with a manager. I'm easy to work with and I go along with what's decided."
-- C. "My manager wanted to move our weekly stock count to Friday afternoons. I thought it would clash with our busiest delivery window, so I pulled last month's delivery times, showed her in a short one-to-one, and suggested Thursday morning. She kept Friday for a trial week, the count overran twice, and we moved it to Thursday. I learned to bring data rather than opinions."
-
-**Item 5.** The question is: "Tell us about a mistake you made at work." Which outline is strongest?
+**Item 3.** The question is: "Tell us about a mistake you made at work." Which outline is strongest?
 
 - A. "My biggest mistake is that I care too much and take on too much work."
 - B. "I sent a customer the wrong quote because the pricing sheet I'd been given was out of date. That was really the system's fault."
 - C. "I booked a delivery for the wrong date because I misread a handwritten note. I spotted it the next morning, called the customer before the van left, rebooked it, and apologised. Since then I repeat dates back to customers in writing before I confirm."
 
-**Item 6.** For a 2-minute answer, which time split is closest to good STAR balance?
-
-- A. Situation 60 seconds, Task 10, Action 30, Result 20
-- B. Situation 20 seconds, Task 10, Action 65, Result 25
-- C. Situation 10 seconds, Task 10, Action 10, Result 90
-
-**Item 7.** The question asks about a time you showed initiative. Which sentence best shows *your* contribution?
-
-- A. "We noticed customers were waiting too long, so we came up with a new queue system."
-- B. "Customers were waiting too long, so I timed the queue for a week, sketched a two-line system, and pitched it to my supervisor, who let me trial it."
-- C. "The store decided to introduce a new queue system, which was a good idea."
-
-**Item 8.** Which result statement is strongest?
-
-- A. "In the end it went quite well."
-- B. "Everyone was really happy with how it turned out."
-- C. "The backlog fell from 40 open tickets to 12 within two weeks, and my supervisor asked me to show the method to the other shift."
-
-**Item 9.** You are applying for a customer service role. The question is: "Tell us about a time you went above and beyond for a customer." Which story is the best fit?
-
-- A. In your retail job, tracking down an out-of-stock item at another branch and arranging for the customer to collect it the same day.
-- B. Leading your university group project to a high mark.
-- C. Training for and finishing a half marathon.
-
-**Item 10.** The question is: "Describe a time you had to learn something quickly. How did you get up to speed, and how did you know it had worked?" Which outline answers the whole question?
-
-- A. "I had to learn our new booking software in a week. I watched the vendor's videos, practised on the test system each evening, and asked the person who set it up for a 20-minute walkthrough."
-- B. "I had to learn our new booking software in a week. I watched the vendor's videos, practised on the test system each evening, and asked the person who set it up for a 20-minute walkthrough. I knew it had worked when I handled the first Monday's bookings without escalating any, and two colleagues started asking me for help."
-- C. "Learning quickly is one of my strengths. I find I pick up software faster than most people."
-
-**Item 11.** You are a student with little work experience. The question is: "Tell us about a time you worked in a team to reach a goal." What is the best approach?
-
-- A. Say you don't have work experience, so you can't answer this one.
-- B. Use a real example from a society, sports team, volunteering or a group project, and make your own role clear.
-- C. Make up a workplace example that sounds more professional.
-
-**Item 12.** Which closing line ends an answer best?
-
-- A. "...and that's basically it, I think. Um, yeah. Is that OK?"
-- B. "...and then a few weeks later something similar happened again, and also there was another time when..."
-- C. "...the client renewed the contract. What I took from it is to check assumptions in writing early, which is something I'd bring to this role."
-
 <details>
-<summary>Answers and explanations, items 1 to 12</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
 **Item 1: B.** It names a real situation, your responsibility, the steps you took and a result with a time and a follow-on outcome. *Why not A:* it is a list of claims with no example, which is the most common way to miss a past-behaviour question. *Why not C:* it is vague and all "we", so the listener cannot tell what you did.
 
 **Item 2: D, Result.** The situation (orders going wrong on Saturdays), the task (fixing it, implied by asking the manager) and the actions (walkthrough, cheat sheet, pairing) are all there. Nothing says whether the errors fell. *Why not B:* the task is light but clear from context. A missing result is the bigger gap.
 
-**Item 3: B.** One sentence puts the listener in the scene and sets up the problem. *Why not A:* it spends the opening on life history that has nothing to do with the problem. *Why not C:* it is a general statement, not the start of a story.
-
-**Item 4: C.** It shows a real disagreement handled privately and with evidence, accepts the manager's decision to trial her idea, and ends with a result and a lesson. *Why not A:* it criticises the manager and describes airing the disagreement in front of the team. *Why not B:* it dodges the question, and the interviewer learns nothing.
-
-**Item 5: C.** A real mistake, owned, fixed quickly, with a habit changed afterwards. *Why not A:* a strength dressed as a weakness does not answer the question. *Why not B:* it shifts the blame and has no fix or lesson.
-
-**Item 6: B.** Most of the time goes on action, with short set-up and a clear result. *Why not A:* a minute of situation leaves too little room for what you did. *Why not C:* a 90-second result with 10 seconds of action skips the part that shows your behaviour.
-
-**Item 7: B.** It shows exactly what you did: timed the queue, designed a fix, pitched it, ran a trial. *Why not A:* "we" hides your role. *Why not C:* it credits "the store" and shows no initiative from you.
-
-**Item 8: C.** It gives numbers, a time frame and a sign that others valued the work. *Why not A or B:* both are pleasant but tell the listener nothing they can weigh.
-
-**Item 9: A.** It is a customer, in a service setting, and you went past the normal job to solve their problem. *Why not B:* a group project can show teamwork but is not about a customer. *Why not C:* it shows persistence, not customer care.
-
-**Item 10: B.** The question has two parts, how you got up to speed and how you knew it worked, and B answers both. *Why not A:* it stops after the first part. *Why not C:* it gives no example at all.
-
-**Item 11: B.** A real non-work example is a fair answer, as long as your role is clear. *Why not A:* it gives the interviewer nothing. *Why not C:* invented stories fall apart when someone asks follow-up questions in a later interview, and they are dishonest.
-
-**Item 12: C.** It closes with the result and one sentence linking the lesson to the job. *Why not A:* it trails off and asks for reassurance. *Why not B:* it starts a second story when time is nearly up.
+**Item 3: C.** A real mistake, owned, fixed quickly, with a habit changed afterwards. *Why not A:* a strength dressed as a weakness does not answer the question. *Why not B:* it shifts the blame and has no fix or lesson.
 
 </details>
 
@@ -201,13 +129,15 @@ Pick the story from your bank that fits "a time you changed someone's mind". Wri
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | D | B | C | C | B | B | C | A | B | B | C |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | B | D | C |
 
-- **11 to 12:** you can spot a strong answer. Now record yourself giving three of your own, because spotting and doing are different skills.
-- **8 to 10:** look at which trap caught you. Most misses here are about vague results or "we" stories.
-- **7 or fewer:** reread the STAR table and the method, then redo the items tomorrow before building your story bank.
+- **3:** you can spot a strong answer. Now record yourself giving three of your own, because spotting and doing are different skills.
+- **2:** look at which trap caught you. Most misses here are about vague results or "we" stories.
+- **1 or fewer:** reread the STAR table and the method, then redo the items tomorrow before building your story bank.
+
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 
@@ -215,4 +145,4 @@ Saying a STAR answer out loud against a timer feels different from reading one. 
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Situational questions](video-situational-questions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [6-minute diagnostic](../diagnostic.md) | Next: [Situational questions](video-situational-questions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->

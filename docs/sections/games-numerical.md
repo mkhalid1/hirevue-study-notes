@@ -52,86 +52,40 @@ HireVue says each game takes under 20 minutes. Within a game, items are usually 
 
 ## Practice items
 
-These 14 items are original, written for these notes. They are not taken from HireVue or any game. Use no calculator. Time yourself: aim for under 5 minutes for all 14.
+These 3 items are original, written for these notes. They are not taken from HireVue or any game. Use no calculator. Time yourself: aim for under 1 minute for all 3.
 
-**Item 1.** What is 18% of 250?
+**Item 1.** What comes next? 3, 7, 15, 31, ?
 
-**Item 2.** What comes next? 3, 7, 15, 31, ?
+**Item 2.** Weekly orders rise from 80 to 100. What is the percentage increase?
 
-**Item 3.** What comes next? 2, 6, 12, 20, 30, ?
-
-**Item 4.** A box of 12 items costs 18 credits. At the same rate, what do 30 items cost?
-
-**Item 5.** Which is larger: 3/8 or 0.4?
-
-**Item 6.** Which expression equals 30?
-
-- A. 4 × 6 + 9
-- B. (9 − 4) × 6
-- C. 9 × 6 − 4
-
-**Item 7.** Weekly orders rise from 80 to 100. What is the percentage increase?
-
-**Item 8.** The next week, orders fall from 100 back to 80. What is the percentage decrease?
-
-**Item 9.** Three apples weigh the same as two pears. One pear weighs 150 g. How much does one apple weigh?
-
-**Item 10.** Each row of a grid adds up to 20. One row reads 7, 5, ?. What is the missing number?
-
-**Item 11.** A van travels 45 km in 30 minutes at a steady speed. What is its speed in km per hour?
-
-**Item 12.** What comes next? 81, 27, 9, 3, ?
-
-**Item 13.** Which is closest to 49 × 21?
+**Item 3.** Which is closest to 49 × 21?
 
 - A. 900
 - B. 1,000
 - C. 1,100
 
-**Item 14.** 60 tickets are shared between two teams in the ratio 2 : 3. How many tickets does the larger share get?
-
 <details>
-<summary>Answers and explanations, items 1 to 14</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
-**Item 1: 45.** 10% of 250 is 25, so 20% is 50. 2% is 5. 20% minus 2% is 18%, so 50 − 5 = 45.
+**Item 1: 63.** Each term is double the previous one plus 1: 3 × 2 + 1 = 7, 7 × 2 + 1 = 15, 15 × 2 + 1 = 31, 31 × 2 + 1 = 63. The gaps (4, 8, 16) also double, so the next gap is 32.
 
-**Item 2: 63.** Each term is double the previous one plus 1: 3 × 2 + 1 = 7, 7 × 2 + 1 = 15, 15 × 2 + 1 = 31, 31 × 2 + 1 = 63. The gaps (4, 8, 16) also double, so the next gap is 32.
+**Item 2: 25%.** The rise is 20, and the starting value is 80. 20 ÷ 80 = 0.25.
 
-**Item 3: 42.** The gaps are 4, 6, 8, 10, so the next gap is 12. 30 + 12 = 42.
-
-**Item 4: 45 credits.** One item costs 18 ÷ 12 = 1.5 credits. 30 × 1.5 = 45.
-
-**Item 5: 0.4.** 3/8 = 0.375, which is less than 0.4.
-
-**Item 6: B.** (9 − 4) × 6 = 5 × 6 = 30. *A* is 24 + 9 = 33. *C* is 54 − 4 = 50.
-
-**Item 7: 25%.** The rise is 20, and the starting value is 80. 20 ÷ 80 = 0.25.
-
-**Item 8: 20%.** The fall is 20, and the starting value is now 100. 20 ÷ 100 = 0.2. Items 7 and 8 show why the base matters.
-
-**Item 9: 100 g.** Two pears weigh 300 g, so three apples weigh 300 g, and one apple weighs 100 g.
-
-**Item 10: 8.** 7 + 5 = 12, and 20 − 12 = 8.
-
-**Item 11: 90 km per hour.** 30 minutes is half an hour, so in a full hour it would go 45 × 2 = 90 km.
-
-**Item 12: 1.** Each term is divided by 3: 81, 27, 9, 3, 1.
-
-**Item 13: B.** 49 × 21 is about 50 × 20 = 1,000. Exactly, it is 1,029, which is still closest to 1,000.
-
-**Item 14: 36.** The ratio has 2 + 3 = 5 parts. 60 ÷ 5 = 12 per part. The larger share is 3 × 12 = 36 (the smaller is 24).
+**Item 3: B.** 49 × 21 is about 50 × 20 = 1,000. Exactly, it is 1,029, which is still closest to 1,000.
 
 </details>
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | 45 | 63 | 42 | 45 | 0.4 | B | 25% | 20% | 100 g | 8 | 90 | 1 | B | 36 |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | 63 | 25% | B |
 
-- **13 to 14, under 5 minutes:** your number fluency is solid. Practise speed with mixed sets.
-- **10 to 12:** check whether misses were percentages (base errors) or sequences (wrong rule type). Drill that type.
-- **9 or fewer, or over 8 minutes:** spend 10 minutes a day on mental arithmetic for a week: times tables to 12, percentages of round numbers, and simple sequences.
+- **3, under 1 minute:** your number fluency is solid. Practise speed with mixed sets.
+- **2:** check whether misses were percentages (base errors) or sequences (wrong rule type). Drill that type.
+- **1 or fewer, or over 2 minutes:** spend 10 minutes a day on mental arithmetic for a week: times tables to 12, percentages of round numbers, and simple sequences.
+
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 

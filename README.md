@@ -1,12 +1,12 @@
 # HireVue Study Notes
 
-A free, complete study guide for HireVue, covering both parts employers use: the recorded OnDemand video interview and the game-based assessments. It explains how each part works, gives a clear method for every question and game type, 87 original practice items with full explanations plus worked model answers, what HireVue does and does not publish about scoring, and study plans for a week or a weekend. Facts about HireVue come only from HireVue's own pages and support articles, each one [cited](docs/sources.md). Where something is not published, such as the names of the games, the notes say so.
+A free, complete study guide for HireVue, covering both parts employers use: the recorded OnDemand video interview and the game-based assessments. It explains how each part works, gives a clear method for every question and game type, 21 original practice items with full explanations plus worked model answers, what HireVue does and does not publish about scoring, and study plans for a week or a weekend. Facts about HireVue come only from HireVue's own pages and support articles, each one [cited](docs/sources.md). Where something is not published, such as the names of the games, the notes say so.
 
-Want to see where you stand first? Try the [free HireVue practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), with game-style items and timed video questions, or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Try the [free HireVue practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), with game-style items and timed video questions, or the shorter [6-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak spots.** Take the [15-minute diagnostic](docs/diagnostic.md). It has two items for each guide and tells you where to start.
+1. **Find your weak spots.** Take the [6-minute diagnostic](docs/diagnostic.md). It has one item for each guide and tells you where to start.
 2. **Fix the weakest area first.** Open its guide below, learn the method, then do its practice items.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your invitation has already arrived.
 
@@ -34,13 +34,13 @@ Sources: [HireVue candidate FAQ](https://www.hirevue.com/candidates/faq), [HireV
 
 | Guide | Part | What it trains | Items |
 |---|---|---|---|
-| [Past-behaviour questions](docs/sections/video-past-behaviour-questions.md) | Video | "Tell us about a time..." answers in STAR form | 12 + worked examples |
-| [Situational questions](docs/sections/video-situational-questions.md) | Video | "What would you do..." and acted-out simulations | 12 + worked examples |
-| [Motivation and strengths questions](docs/sections/video-motivation-questions.md) | Video | "Why us", "why this role", strengths and weaknesses | 12 + worked examples |
-| [Numerical games](docs/sections/games-numerical.md) | Games | Quick sums, percentages, sequences | 14 |
-| [Memory and attention games](docs/sections/games-memory-and-attention.md) | Games | Recall, matching, rule switching | 12 |
-| [Pattern and logic games](docs/sections/games-pattern-and-logic.md) | Games | Finding rules, deduction, ordering | 13 |
-| [People and work-style games](docs/sections/games-people-and-work-style.md) | Games | Reading emotions, people scenarios, honest work-style choices | 12 + worked examples |
+| [Past-behaviour questions](docs/sections/video-past-behaviour-questions.md) | Video | "Tell us about a time..." answers in STAR form | 3 + worked examples |
+| [Situational questions](docs/sections/video-situational-questions.md) | Video | "What would you do..." and acted-out simulations | 3 + worked examples |
+| [Motivation and strengths questions](docs/sections/video-motivation-questions.md) | Video | "Why us", "why this role", strengths and weaknesses | 3 + worked examples |
+| [Numerical games](docs/sections/games-numerical.md) | Games | Quick sums, percentages, sequences | 3 |
+| [Memory and attention games](docs/sections/games-memory-and-attention.md) | Games | Recall, matching, rule switching | 3 |
+| [Pattern and logic games](docs/sections/games-pattern-and-logic.md) | Games | Finding rules, deduction, ordering | 3 |
+| [People and work-style games](docs/sections/games-people-and-work-style.md) | Games | Reading emotions, people scenarios, honest work-style choices | 3 + worked examples |
 
 Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, original practice items with explanations, and a score table.
 
@@ -57,7 +57,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
   - [What a typical session looks like](docs/test-overview.md#what-a-typical-session-looks-like)
   - [The one habit that runs through everything](docs/test-overview.md#the-one-habit-that-runs-through-everything)
   - [Practise the real format](docs/test-overview.md#practise-the-real-format)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [6-minute diagnostic](docs/diagnostic.md)
   - [Part A: Past-behaviour questions](docs/diagnostic.md#part-a-past-behaviour-questions)
   - [Part B: Situational questions](docs/diagnostic.md#part-b-situational-questions)
   - [Part C: Motivation and strengths questions](docs/diagnostic.md#part-c-motivation-and-strengths-questions)
@@ -203,7 +203,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 
 ## About the practice items
 
-All 87 practice items, the 14 diagnostic items and the worked examples are original, written for these notes. None are taken from HireVue, from any employer's interview or from any prep site. For the video and work-style guides, the items are worked examples and judgement checks that teach structure and honest self-description. Nothing here tries to "game" an assessment, which HireVue says is not possible anyway.
+All 21 practice items, the 7 diagnostic items and the worked examples are original, written for these notes. None are taken from HireVue, from any employer's interview or from any prep site. For the video and work-style guides, the items are worked examples and judgement checks that teach structure and honest self-description. Nothing here tries to "game" an assessment, which HireVue says is not possible anyway.
 
 ## Contributing
 

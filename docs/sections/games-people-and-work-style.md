@@ -60,7 +60,7 @@ HireVue says each game is under 20 minutes. Work-style choices are usually quick
 
 ## Practice items
 
-These 12 items are original, written for these notes. They are not taken from HireVue or any game. Items 1 and 2 check your understanding of work-style tasks. Items 3 to 7 practise reading emotions. Items 8 to 12 practise people scenarios. Each has one best option.
+These 3 items are original, written for these notes. They are not taken from HireVue or any game. Item 1 checks your understanding of work-style tasks. Item 2 practises reading emotions. Item 3 practises people scenarios. Each has one best option.
 
 **Item 1.** In a work-style task you see two pictures: a tidy desk and a busy desk covered in notes. Which statement is accurate?
 
@@ -68,98 +68,26 @@ These 12 items are original, written for these notes. They are not taken from Hi
 - B. You should always pick the tidy desk.
 - C. There is no right answer. The task records your preference, so pick the one closer to how you really work.
 
-**Item 2.** Neither of two options describes you well. What should you do?
-
-- A. Pick the one that is closer to you and move on.
-- B. Wait until a better option appears.
-- C. Pick the opposite of what you picked last time to look balanced.
-
-**Item 3.** A colleague says "Fine. Whatever you think." after you rejected their suggestion in a meeting, and avoids eye contact. What are they most likely feeling?
-
-- A. Excited
-- B. Hurt or annoyed
-- C. Relieved
-
-**Item 4.** A customer writes: "I've now explained this three times to three different people." What are they most likely feeling?
+**Item 2.** A customer writes: "I've now explained this three times to three different people." What are they most likely feeling?
 
 - A. Frustrated
 - B. Grateful
 - C. Confused about the product
 
-**Item 5.** A new team member keeps asking whether their work is "OK" and apologises often. What are they most likely feeling?
-
-- A. Bored
-- B. Overconfident
-- C. Anxious or unsure
-
-**Item 6.** A colleague who has just been told their project was approved is smiling, talking quickly and already listing next steps. What are they most likely feeling?
-
-- A. Enthusiastic
-- B. Embarrassed
-- C. Disappointed
-
-**Item 7.** A customer speaks slowly and quietly and says, "I just don't know what to do now," after their booking was cancelled. What are they most likely feeling?
-
-- A. Angry
-- B. Overwhelmed or worried
-- C. Amused
-
-**Item 8.** The customer in item 4 is waiting for your reply. Which reply is best?
-
-- A. "As per our policy, please describe the issue again so I can log it."
-- B. "I'm sorry you've had to repeat yourself. I've read your earlier messages, so you won't need to explain again. Here's what I'm going to do next..."
-- C. "I understand. I understand completely. I really do understand."
-
-**Item 9.** In a team scenario, two colleagues disagree about how to split a task and ask your view. Which response is best?
-
-- A. "Let's list what each part needs and who has time this week, then split it from there. If we're still stuck, we can ask the team lead."
-- B. "I'll just do it all myself so you don't have to argue."
-- C. "Honestly, I think one of you is being unreasonable."
-
-**Item 10.** The colleague in item 3 comes to your desk later. Which opening is best?
-
-- A. "Don't take it personally, it's just business."
-- B. Say nothing about the meeting and talk about something else.
-- C. "I wanted to check in about this morning. I think I shut your idea down quickly. Can you walk me through it again?"
-
-**Item 11.** A customer in a chat-style task is angry that a refund has not arrived. You can see it was sent two days ago and can take up to five working days. Which reply is best?
+**Item 3.** A customer in a chat-style task is angry that a refund has not arrived. You can see it was sent two days ago and can take up to five working days. Which reply is best?
 
 - A. "It's been sent, so there's nothing I can do."
 - B. "I can see how worrying it is not to see the money yet. The refund was sent two days ago, and it can take up to five working days to show. If it hasn't arrived by then, reply here and I'll chase it with the bank for you."
 - C. "I'll make sure it arrives tomorrow."
 
-**Item 12.** In a people scenario, which statement is the best general rule?
-
-- A. Acknowledge how the person feels, then move to a practical next step you can actually deliver.
-- B. Always agree with whatever the person asks for.
-- C. Focus only on the facts and ignore feelings, to stay professional.
-
 <details>
-<summary>Answers and explanations, items 1 to 12</summary>
+<summary>Answers and explanations, items 1 to 3</summary>
 
 **Item 1: C.** Work-style choices describe your preferences. HireVue matches the overall picture to the role, and you cannot know the role's profile from one item. *Why not A and B:* treating a preference item as a puzzle with one answer leads to a profile that is not you.
 
-**Item 2: A.** These tasks expect imperfect fits. The nearer option is the honest answer. *Why not B:* the options will not change. *Why not C:* switching to look balanced makes your answers less accurate.
+**Item 2: A.** Repeating a problem to several people is a classic cause of frustration. *Why not B:* nothing suggests thanks. *Why not C:* the complaint is about being passed around, not about not understanding the product.
 
-**Item 3: B.** Short, flat words and avoiding eye contact after a rejection usually signal hurt or irritation. *Why not A or C:* nothing points to excitement or relief.
-
-**Item 4: A.** Repeating a problem to several people is a classic cause of frustration. *Why not B:* nothing suggests thanks. *Why not C:* the complaint is about being passed around, not about not understanding the product.
-
-**Item 5: C.** Frequent checking and apologising are common signs of anxiety, especially when someone is new. *Why not A or B:* both are the opposite of what the behaviour suggests.
-
-**Item 6: A.** Smiling, speaking fast and planning ahead after good news fit enthusiasm. *Why not B or C:* nothing points to embarrassment or disappointment.
-
-**Item 7: B.** Slow, quiet speech and "I don't know what to do" after a setback suggest feeling overwhelmed or worried. *Why not A:* anger usually sounds sharper. *Why not C:* nothing suggests amusement.
-
-**Item 8: B.** It acknowledges the frustration, removes the cause (having to repeat) and moves to action. *Why not A:* it asks the customer to repeat themselves a fourth time. *Why not C:* it acknowledges and acknowledges but never helps.
-
-**Item 9: A.** It is fair, practical and has a fallback. *Why not B:* taking everything on yourself hides the problem and overloads you. *Why not C:* it takes sides and makes the conflict worse.
-
-**Item 10: C.** It names what happened, takes your share of responsibility and invites them back in. *Why not A:* it dismisses their feelings. *Why not B:* avoiding the topic leaves the tension in place.
-
-**Item 11: B.** It acknowledges the worry, gives accurate facts and offers a real next step. *Why not A:* accurate but cold, and it leaves the customer with nothing. *Why not C:* it promises something you cannot control.
-
-**Item 12: A.** Acknowledge, then act, within what you can deliver. *Why not B:* agreeing to everything leads to broken promises. *Why not C:* ignoring feelings makes people less willing to accept even a good solution.
+**Item 3: B.** It acknowledges the worry, gives accurate facts and offers a real next step. *Why not A:* accurate but cold, and it leaves the customer with nothing. *Why not C:* it promises something you cannot control.
 
 </details>
 
@@ -185,13 +113,15 @@ Each step does one job: acknowledge, diagnose, resolve. That pattern is what the
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | A | B | A | C | A | B | B | A | C | B | A |
+| Item | 1 | 2 | 3 |
+|---|---|---|---|
+| Answer | C | A | B |
 
-- **11 to 12:** you read people well and respond sensibly. In the real games, keep your work-style answers honest and quick.
-- **8 to 10:** look at whether misses were in reading feelings (items 3 to 7) or responding (items 8 to 12). Most response misses come from skipping either the acknowledgement or the action.
-- **7 or fewer:** reread the four people-scenario steps and practise them on everyday situations, such as a friend's complaint or a support chat you have had.
+- **3:** you read people well and respond sensibly. In the real games, keep your work-style answers honest and quick.
+- **2:** look at whether misses were in reading feelings (item 2) or responding (item 3). Most response misses come from skipping either the acknowledgement or the action.
+- **1 or fewer:** reread the four people-scenario steps and practise them on everyday situations, such as a friend's complaint or a support chat you have had.
+
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 

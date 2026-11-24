@@ -2,7 +2,7 @@
 
 # Study plans
 
-Two plans: one for a week, one for when the invitation has already arrived. Both assume you start with the [15-minute diagnostic](diagnostic.md). Expect about 45 to 75 minutes a day on the 7-day plan.
+Two plans: one for a week, one for when the invitation has already arrived. Both assume you start with the [6-minute diagnostic](diagnostic.md). Expect about 45 to 75 minutes a day on the 7-day plan.
 
 First, check your invitation. If it only mentions a video interview, skip the games days and use them for extra recorded answers. If it mentions games or "assessments", keep them in.
 
@@ -11,8 +11,8 @@ First, check your invitation. If it only mentions a video interview, skip the ga
 | Day | Focus | What to do |
 |---|---|---|
 | 1 | Baseline | Read [HireVue explained](test-overview.md). Take the [diagnostic](diagnostic.md). Read the job advert and list the three or four tasks it mentions most. |
-| 2 | Story bank | Read [past-behaviour questions](sections/video-past-behaviour-questions.md). Do the 12 items. Write six to eight STAR stories as bullet notes: problem solved, conflict, pressure, mistake, customer or colleague helped, learning fast, leading or influencing, changing your mind. |
-| 3 | Judgement and simulations | Read [situational questions](sections/video-situational-questions.md). Do the 12 items. Record two answers, one hypothetical and one acted-out simulation, and watch them back. |
+| 2 | Story bank | Read [past-behaviour questions](sections/video-past-behaviour-questions.md). Do the 3 items. Write six to eight STAR stories as bullet notes: problem solved, conflict, pressure, mistake, customer or colleague helped, learning fast, leading or influencing, changing your mind. |
+| 3 | Judgement and simulations | Read [situational questions](sections/video-situational-questions.md). Do the 3 items. Record two answers, one hypothetical and one acted-out simulation, and watch them back. |
 | 4 | Why this job | Research the employer for an hour. Read [motivation and strengths questions](sections/video-motivation-questions.md), do the items, and write your three "why us" sentences and your strength with an example. Record both. |
 | 5 | Games | Read the [numerical](sections/games-numerical.md), [memory and attention](sections/games-memory-and-attention.md) and [pattern and logic](sections/games-pattern-and-logic.md) guides. Do all three item sets against a timer. |
 | 6 | People games and a full run | Read [people and work-style games](sections/games-people-and-work-style.md). Then do a full timed run, such as the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), with games and video. Note your weakest part. |

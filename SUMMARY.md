@@ -5,7 +5,7 @@
 ## Start here
 
 * [HireVue explained](docs/test-overview.md)
-* [15-minute diagnostic](docs/diagnostic.md)
+* [6-minute diagnostic](docs/diagnostic.md)
 
 ## Video interview
 
