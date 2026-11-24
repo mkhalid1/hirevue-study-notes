@@ -18,8 +18,8 @@ If you already know what kind of HireVue assessment your employer uses, you can 
 
 **D2.** Which STAR part should take the most time in a 2-minute answer?
 
-- A. Situation
-- B. Action
+- A. Action
+- B. Situation
 - C. Result
 
 ## Part B: Situational questions
@@ -32,9 +32,9 @@ If you already know what kind of HireVue assessment your employer uses, you can 
 
 **D4.** A simulation asks you to "respond to the customer now." What should your answer sound like?
 
-- A. "I would tell the customer that I'm sorry and..."
-- B. "I'm sorry about this. Let me check what I can do for you."
-- C. "The correct procedure in this case is to..."
+- A. "The correct procedure in this case is to..."
+- B. "I would tell the customer that I'm sorry and..."
+- C. "I'm sorry about this. Let me check what I can do for you."
 
 ## Part C: Motivation and strengths questions
 
@@ -85,7 +85,33 @@ If you already know what kind of HireVue assessment your employer uses, you can 
 <details>
 <summary>Answers</summary>
 
-**D1: B.** A real example, your actions, a result. **D2: B.** Action carries the evidence. **D3: B.** Acknowledge, act, confirm. **D4: B.** A simulation asks you to speak to the person, not describe what you would say. **D5: B.** Specific to the employer and linked to your experience. **D6: A.** Claim, example, relevance. **D7: 28.** 10% is 8, so 30% is 24, and 5% is 4. 24 + 4 = 28. **D8: 36.** These are square numbers: 6 × 6 = 36. **D9: L.** The sequence was P, 3, W, 8, L, 1. **D10: 1.** Only the middle pair differs (1147 and 1174). **D11: P.** The gaps are 2, 3, 4, so the next gap is 5. K is the 11th letter, and 11 + 5 = 16, which is P. **D12: No.** Only the trainees must wear the badge, and only some drivers are trainees. **D13: B.** Work-style items describe you. **D14: A.** Apologise, fix it now, prevent a repeat.
+**D1: B.** A real example, your actions, a result.
+
+**D2: A.** Action carries the evidence.
+
+**D3: B.** Acknowledge, act, confirm.
+
+**D4: C.** A simulation asks you to speak to the person, not describe what you would say.
+
+**D5: B.** Specific to the employer and linked to your experience.
+
+**D6: A.** Claim, example, relevance.
+
+**D7: 28.** 10% is 8, so 30% is 24, and 5% is 4. 24 + 4 = 28.
+
+**D8: 36.** These are square numbers: 6 × 6 = 36.
+
+**D9: L.** The sequence was P, 3, W, 8, L, 1.
+
+**D10: 1.** Only the middle pair differs (1147 and 1174).
+
+**D11: P.** The gaps are 2, 3, 4, so the next gap is 5. K is the 11th letter, and 11 + 5 = 16, which is P.
+
+**D12: No.** Only the trainees must wear the badge, and only some drivers are trainees.
+
+**D13: B.** Work-style items describe you.
+
+**D14: A.** Apologise, fix it now, prevent a repeat.
 
 </details>
 
