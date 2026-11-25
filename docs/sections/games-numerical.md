@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Motivation and strengths questions](video-motivation-questions.md) · Next: [Memory and attention games](games-memory-and-attention.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Motivation and strengths questions](video-motivation-questions.md) · Next: [Memory and attention games](games-memory-and-attention.md)
+<!-- /nav:top -->
 
 # Numerical games
 
@@ -93,4 +95,6 @@ Numbers feel different when a game is speeding up around you. Try the game-style
 
 ---
 
-<!-- nav:bottom -->← Previous: [Motivation and strengths questions](video-motivation-questions.md) | Next: [Memory and attention games](games-memory-and-attention.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Motivation and strengths questions](video-motivation-questions.md) | Next: [Memory and attention games](games-memory-and-attention.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

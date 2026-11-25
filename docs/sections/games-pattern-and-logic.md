@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Memory and attention games](games-memory-and-attention.md) · Next: [People and work-style games](games-people-and-work-style.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Memory and attention games](games-memory-and-attention.md) · Next: [People and work-style games](games-people-and-work-style.md)
+<!-- /nav:top -->
 
 # Pattern and logic games
 
@@ -88,4 +90,6 @@ Visual puzzles feel different from text ones the first time. Try the game-style 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Memory and attention games](games-memory-and-attention.md) | Next: [People and work-style games](games-people-and-work-style.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Memory and attention games](games-memory-and-attention.md) | Next: [People and work-style games](games-people-and-work-style.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

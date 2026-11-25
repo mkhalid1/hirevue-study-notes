@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [6-minute diagnostic](../diagnostic.md) · Next: [Situational questions](video-situational-questions.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [6-minute diagnostic](../diagnostic.md) · Next: [Situational questions](video-situational-questions.md)
+<!-- /nav:top -->
 
 # Past-behaviour questions
 
@@ -145,4 +147,6 @@ Saying a STAR answer out loud against a timer feels different from reading one. 
 
 ---
 
-<!-- nav:bottom -->← Previous: [6-minute diagnostic](../diagnostic.md) | Next: [Situational questions](video-situational-questions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [6-minute diagnostic](../diagnostic.md) | Next: [Situational questions](video-situational-questions.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

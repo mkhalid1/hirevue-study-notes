@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [People and work-style games](sections/games-people-and-work-style.md) · Next: [Setup and recording](setup-and-recording.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [People and work-style games](sections/games-people-and-work-style.md) · Next: [Setup and recording](setup-and-recording.md)
+<!-- /nav:top -->
 
 # How HireVue assesses you
 
@@ -59,4 +61,6 @@ There is no published pass mark, so there is no fixed "fail" line. An employer m
 
 ---
 
-<!-- nav:bottom -->← Previous: [People and work-style games](sections/games-people-and-work-style.md) | Next: [Setup and recording](setup-and-recording.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [People and work-style games](sections/games-people-and-work-style.md) | Next: [Setup and recording](setup-and-recording.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

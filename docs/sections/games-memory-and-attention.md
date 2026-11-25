@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Numerical games](games-numerical.md) · Next: [Pattern and logic games](games-pattern-and-logic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Numerical games](games-numerical.md) · Next: [Pattern and logic games](games-pattern-and-logic.md)
+<!-- /nav:top -->
 
 # Memory and attention games
 
@@ -88,4 +90,6 @@ Memory games are easier once the format is familiar. Try the game-style items in
 
 ---
 
-<!-- nav:bottom -->← Previous: [Numerical games](games-numerical.md) | Next: [Pattern and logic games](games-pattern-and-logic.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Numerical games](games-numerical.md) | Next: [Pattern and logic games](games-pattern-and-logic.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

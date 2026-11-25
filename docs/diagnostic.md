@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [HireVue explained](test-overview.md) · Next: [Past-behaviour questions](sections/video-past-behaviour-questions.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [HireVue explained](test-overview.md) · Next: [Past-behaviour questions](sections/video-past-behaviour-questions.md)
+<!-- /nav:top -->
 
 # 6-minute diagnostic
 
@@ -89,4 +91,6 @@ Check your invitation too: if your employer only uses the video interview, focus
 
 ---
 
-<!-- nav:bottom -->← Previous: [HireVue explained](test-overview.md) | Next: [Past-behaviour questions](sections/video-past-behaviour-questions.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [HireVue explained](test-overview.md) | Next: [Past-behaviour questions](sections/video-past-behaviour-questions.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

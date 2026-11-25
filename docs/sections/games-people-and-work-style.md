@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Pattern and logic games](games-pattern-and-logic.md) · Next: [How HireVue assesses you](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Pattern and logic games](games-pattern-and-logic.md) · Next: [How HireVue assesses you](../scoring.md)
+<!-- /nav:top -->
 
 # People and work-style games
 
@@ -129,4 +131,6 @@ Try the game-style items in the [free HireVue practice on PrepClubs](https://pre
 
 ---
 
-<!-- nav:bottom -->← Previous: [Pattern and logic games](games-pattern-and-logic.md) | Next: [How HireVue assesses you](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Pattern and logic games](games-pattern-and-logic.md) | Next: [How HireVue assesses you](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

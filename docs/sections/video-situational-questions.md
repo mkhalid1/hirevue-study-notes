@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Past-behaviour questions](video-past-behaviour-questions.md) · Next: [Motivation and strengths questions](video-motivation-questions.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Past-behaviour questions](video-past-behaviour-questions.md) · Next: [Motivation and strengths questions](video-motivation-questions.md)
+<!-- /nav:top -->
 
 # Situational questions
 
@@ -131,4 +133,6 @@ Simulations in particular need a few runs before they feel natural. Try the [fre
 
 ---
 
-<!-- nav:bottom -->← Previous: [Past-behaviour questions](video-past-behaviour-questions.md) | Next: [Motivation and strengths questions](video-motivation-questions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Past-behaviour questions](video-past-behaviour-questions.md) | Next: [Motivation and strengths questions](video-motivation-questions.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

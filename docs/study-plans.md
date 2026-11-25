@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Setup and recording](setup-and-recording.md) · Next: [Test-day checklist](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Setup and recording](setup-and-recording.md) · Next: [Test-day checklist](test-day-checklist.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -62,4 +64,6 @@ If you only have one evening, do day 1 blocks 2, 3 and 5, then sit it the next m
 
 ---
 
-<!-- nav:bottom -->← Previous: [Setup and recording](setup-and-recording.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Setup and recording](setup-and-recording.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

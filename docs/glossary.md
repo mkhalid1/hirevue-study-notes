@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [FAQ](faq.md) · Next: [Sources](sources.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [FAQ](faq.md) · Next: [Sources](sources.md)
+<!-- /nav:top -->
 
 # Glossary
 
@@ -27,4 +29,6 @@ Plain-English meanings for terms you will meet in HireVue invitations, in these 
 
 ---
 
-<!-- nav:bottom -->← Previous: [FAQ](faq.md) | Next: [Sources](sources.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [FAQ](faq.md) | Next: [Sources](sources.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [6-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [6-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # HireVue explained
 
@@ -81,4 +83,6 @@ The fastest way to get used to talking to a camera with a timer running is to do
 
 ---
 
-<!-- nav:bottom -->Next: [6-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [6-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

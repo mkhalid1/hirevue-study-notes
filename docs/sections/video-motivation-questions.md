@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Situational questions](video-situational-questions.md) · Next: [Numerical games](games-numerical.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Situational questions](video-situational-questions.md) · Next: [Numerical games](games-numerical.md)
+<!-- /nav:top -->
 
 # Motivation and strengths questions
 
@@ -136,4 +138,6 @@ Record your "why us" and "greatest strength" answers against a timer. The [free 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Situational questions](video-situational-questions.md) | Next: [Numerical games](games-numerical.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Situational questions](video-situational-questions.md) | Next: [Numerical games](games-numerical.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

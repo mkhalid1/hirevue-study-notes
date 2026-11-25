@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How HireVue assesses you](scoring.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How HireVue assesses you](scoring.md) · Next: [Study plans: 7 days and 2 days](study-plans.md)
+<!-- /nav:top -->
 
 # Setup and recording
 
@@ -65,4 +67,6 @@ A full dry run, including light and sound, takes ten minutes. Try the [free time
 
 ---
 
-<!-- nav:bottom -->← Previous: [How HireVue assesses you](scoring.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How HireVue assesses you](scoring.md) | Next: [Study plans: 7 days and 2 days](study-plans.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->
