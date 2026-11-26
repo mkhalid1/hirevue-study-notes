@@ -51,7 +51,7 @@ Everything to check, in order, so the only thing left to think about is your ans
 
 ## Last practice before the real one
 
-If you have a day spare, do one last timed run with the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) in the same room and on the same device.
+If you have a day spare, do one last timed run with the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) in the same room and on the same device.
 
 ---
 

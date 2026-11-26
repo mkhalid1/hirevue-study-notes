@@ -139,11 +139,11 @@ Pick the story from your bank that fits "a time you changed someone's mind". Wri
 - **2:** look at which trap caught you. Most misses here are about vague results or "we" stories.
 - **1 or fewer:** reread the STAR table and the method, then redo the items tomorrow before building your story bank.
 
-Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 
-Saying a STAR answer out loud against a timer feels different from reading one. Try the [free timed HireVue video interview practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue/video-interview-practice?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), then come back to the traps list for anything that went wrong.
+Saying a STAR answer out loud against a timer feels different from reading one. Try the [free timed HireVue video interview practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue/video-interview-practice?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), then come back to the traps list for anything that went wrong.
 
 ---
 

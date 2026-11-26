@@ -63,7 +63,7 @@ HireVue's FAQ says your data is kept for a period chosen by the company you are 
 
 ## Practise the setup
 
-A full dry run, including light and sound, takes ten minutes. Try the [free timed HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) in the same room and on the same device you plan to use on the day.
+A full dry run, including light and sound, takes ten minutes. Try the [free timed HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) in the same room and on the same device you plan to use on the day.
 
 ---
 

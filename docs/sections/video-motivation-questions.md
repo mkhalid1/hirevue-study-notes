@@ -130,11 +130,11 @@ Write your three "why us" sentences for the job you are applying for. Then recor
 - **2:** most misses here are about being general. Add one specific fact and one example to every answer.
 - **1 or fewer:** reread the three-part method and redo the items after writing your own "why us" sentences.
 
-Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 
-Record your "why us" and "greatest strength" answers against a timer. The [free HireVue video interview practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue/video-interview-practice?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) gives you timed questions so you can hear how your answers sound.
+Record your "why us" and "greatest strength" answers against a timer. The [free HireVue video interview practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue/video-interview-practice?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) gives you timed questions so you can hear how your answers sound.
 
 ---
 

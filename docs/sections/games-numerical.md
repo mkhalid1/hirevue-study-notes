@@ -87,11 +87,11 @@ These 3 items are original, written for these notes. They are not taken from Hir
 - **2:** check whether misses were percentages (base errors) or sequences (wrong rule type). Drill that type.
 - **1 or fewer, or over 2 minutes:** spend 10 minutes a day on mental arithmetic for a week: times tables to 12, percentages of round numbers, and simple sequences.
 
-Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 
-Numbers feel different when a game is speeding up around you. Try the game-style items in the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), then come back to the method for any item type that slowed you down.
+Numbers feel different when a game is speeding up around you. Try the game-style items in the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), then come back to the method for any item type that slowed you down.
 
 ---
 

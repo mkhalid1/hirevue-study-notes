@@ -48,7 +48,7 @@ These are set by the employer, so they vary. The setup screens show them before 
 
 ## Can I practise first?
 
-Yes. HireVue gives you three generic practice questions that you can redo as many times as you like and watch back. Nobody else ever sees them. They will not match your real questions, because each employer picks its own. For more timed practice, try the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue).
+Yes. HireVue gives you three generic practice questions that you can redo as many times as you like and watch back. Nobody else ever sees them. They will not match your real questions, because each employer picks its own. For more timed practice, try the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue).
 
 ## Can I use notes?
 

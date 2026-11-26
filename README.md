@@ -2,7 +2,7 @@
 
 A free, complete study guide for HireVue, covering both parts employers use: the recorded OnDemand video interview and the game-based assessments. It explains how each part works, gives a clear method for every question and game type, 21 original practice items with full explanations plus worked model answers, what HireVue does and does not publish about scoring, and study plans for a week or a weekend. Facts about HireVue come only from HireVue's own pages and support articles, each one [cited](docs/sources.md). Where something is not published, such as the names of the games, the notes say so.
 
-Want to see where you stand first? Try the [free HireVue practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), with game-style items and timed video questions, or the shorter [6-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Try the [free HireVue practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), with game-style items and timed video questions, or the shorter [6-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -198,7 +198,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 - **Check your invitation first.** If your employer only uses the video interview, focus on the three video guides. If it includes games, give the four game guides equal time.
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them.
 - **Say your answers out loud.** For the video guides, reading is only half the work. Record yourself and watch it back.
-- **Practise timed.** The notes teach the method. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), teaches the pace.
+- **Practise timed.** The notes teach the method. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), teaches the pace.
 - **Clone or fork it** if you want to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

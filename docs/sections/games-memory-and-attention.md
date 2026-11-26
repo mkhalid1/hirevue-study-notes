@@ -82,11 +82,11 @@ These 3 items are original, written for these notes. They are not taken from Hir
 - **2:** check whether misses were memory (items 1 and 2) or attention (item 3). For memory, practise chunking. For attention, slow down slightly and compare in pairs.
 - **1 or fewer:** do five minutes of digit-span practice a day: have someone read you sequences, or write them on cards, and recall them forwards and backwards.
 
-Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 
-Memory games are easier once the format is familiar. Try the game-style items in the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), and notice which strategy (chunking, rhythm, picturing) works best for you.
+Memory games are easier once the format is familiar. Try the game-style items in the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), and notice which strategy (chunking, rhythm, picturing) works best for you.
 
 ---
 

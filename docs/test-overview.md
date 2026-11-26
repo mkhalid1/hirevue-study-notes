@@ -79,7 +79,7 @@ Answer the question you were asked, with a real example, in a clear order. That 
 
 ## Practise the real format
 
-The fastest way to get used to talking to a camera with a timer running is to do it. Try the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), which has both game-style items and timed video questions, then take the [6-minute diagnostic](diagnostic.md) to see where to focus.
+The fastest way to get used to talking to a camera with a timer running is to do it. Try the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), which has both game-style items and timed video questions, then take the [6-minute diagnostic](diagnostic.md) to see where to focus.
 
 ---
 

@@ -82,11 +82,11 @@ These 3 items are original, written for these notes. They are not taken from Hir
 - **2:** check whether misses were sequences (item 1) or logic (items 2 and 3). For logic, write the conditions down every time.
 - **1 or fewer:** go back to the method and do one item a day slowly, saying each step out loud, before working on speed.
 
-Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 
-Visual puzzles feel different from text ones the first time. Try the game-style items in the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), then use the method here on any pattern type that slowed you down.
+Visual puzzles feel different from text ones the first time. Try the game-style items in the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), then use the method here on any pattern type that slowed you down.
 
 ---
 

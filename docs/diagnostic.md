@@ -8,7 +8,7 @@ Seven original items, one for each of the seven guides in this repo, to show you
 
 These items are original, written for these notes. They are not taken from HireVue or any employer's assessment.
 
-If you already know what kind of HireVue assessment your employer uses, you can also go straight to the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) for a timed run.
+If you already know what kind of HireVue assessment your employer uses, you can also go straight to the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) for a timed run.
 
 ## Part A: Past-behaviour questions
 

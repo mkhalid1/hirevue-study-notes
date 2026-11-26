@@ -17,7 +17,7 @@ First, check your invitation. If it only mentions a video interview, skip the ga
 | 3 | Judgement and simulations | Read [situational questions](sections/video-situational-questions.md). Do the 3 items. Record two answers, one hypothetical and one acted-out simulation, and watch them back. |
 | 4 | Why this job | Research the employer for an hour. Read [motivation and strengths questions](sections/video-motivation-questions.md), do the items, and write your three "why us" sentences and your strength with an example. Record both. |
 | 5 | Games | Read the [numerical](sections/games-numerical.md), [memory and attention](sections/games-memory-and-attention.md) and [pattern and logic](sections/games-pattern-and-logic.md) guides. Do all three item sets against a timer. |
-| 6 | People games and a full run | Read [people and work-style games](sections/games-people-and-work-style.md). Then do a full timed run, such as the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), with games and video. Note your weakest part. |
+| 6 | People games and a full run | Read [people and work-style games](sections/games-people-and-work-style.md). Then do a full timed run, such as the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), with games and video. Note your weakest part. |
 | 7 | Setup, polish and rest | Read [setup and recording](setup-and-recording.md) and set up your room. Record your three most likely questions once more. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 
 ### How to review a recorded answer
@@ -42,7 +42,7 @@ For when the invitation has arrived and the deadline is close.
 | 2 | 30 min | Read the job advert and the employer's careers page. Write your three "why us" sentences. |
 | 3 | 40 min | Read the method parts of the three video guides. Write five STAR stories as bullet notes. |
 | 4 | 30 min | If games are included, do the item sets for your two weakest game guides. |
-| 5 | 20 min | Record two practice answers with the [free timed video practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue/video-interview-practice?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) and review them with the three questions above. |
+| 5 | 20 min | Record two practice answers with the [free timed video practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue/video-interview-practice?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) and review them with the three questions above. |
 
 ### Day 2: sit it
 

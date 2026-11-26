@@ -125,11 +125,11 @@ Notice that every line is spoken *to* the customer. That is the main difference 
 - **2:** check whether your misses were about order (urgent first) or channel (private first, escalate later).
 - **1 or fewer:** reread "Traps that cost points", then redo the items in two days.
 
-Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 
-Simulations in particular need a few runs before they feel natural. Try the [free timed HireVue video interview practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue/video-interview-practice?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue), and practise speaking straight to the camera as if a customer were there.
+Simulations in particular need a few runs before they feel natural. Try the [free timed HireVue video interview practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue/video-interview-practice?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue), and practise speaking straight to the camera as if a customer were there.
 
 ---
 

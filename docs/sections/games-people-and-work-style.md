@@ -123,11 +123,11 @@ Each step does one job: acknowledge, diagnose, resolve. That pattern is what the
 - **2:** look at whether misses were in reading feelings (item 2) or responding (item 3). Most response misses come from skipping either the acknowledgement or the action.
 - **1 or fewer:** reread the four people-scenario steps and practise them on everyday situations, such as a friend's complaint or a support chat you have had.
 
-Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) has the full 30 questions, scored by section.
+Want more? The [free timed HireVue style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) has the full 30 questions, scored by section.
 
 ## Next step
 
-Try the game-style items in the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=hirevue) to get used to quick choices on screen, and keep the honesty rule for anything that asks what you are like.
+Try the game-style items in the [free HireVue practice on PrepClubs](https://prepclubs.com/free-practice-tests/hirevue?utm_source=github&utm_medium=referral&utm_campaign=62p2am&utm_content=hirevue) to get used to quick choices on screen, and keep the honesty rule for anything that asks what you are like.
 
 ---
 
